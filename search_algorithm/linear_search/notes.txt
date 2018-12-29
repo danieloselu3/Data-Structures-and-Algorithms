@@ -1,0 +1,8 @@
+In linear search, we search an element or a value in a given array by traversing the array from the starting, till the desired element is found.
+
+Linear search is applied on unsorted or unordered lists, when there are fewer elements in a list.
+
+Features of linear search include
+    1.It is used for unordered or unsorted small list of elements.
+    2.It has a time complexity of O(n).
+    3.It has a very simple implementation.

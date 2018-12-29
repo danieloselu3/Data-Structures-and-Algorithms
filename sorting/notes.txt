@@ -1,0 +1,15 @@
+Sorting is arranging data in ascending or descending order.
+
+Sorting arranges data in a sequence, making searching easier.
+
+Two criteria used to judge which sorting algorithm is better than the other is;
+    --> Time taken to sort the given data.
+    --> Memory space used to do so.
+
+Different sorting algorithms include.
+    1.Bubble Sort
+    2.Insertion Sort
+    3.Selection Sort
+    4.Quick Sort
+    5.Merge Sort
+    6.Heap Sort
