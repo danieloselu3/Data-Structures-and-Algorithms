@@ -1,0 +1,6 @@
+Binary is used with sorted array of lists.
+
+Features of Binary Search include
+    1.it is great to search through large sorted arrays.
+    2.It has a a time complexity of O(log n)
+    3.It has a simple implementation.
