@@ -1,0 +1,9 @@
+Time Complexity signifies the total amount of time required by the program to run till it's execution.
+
+The time complexity of an algorithm is mostly expressed in Big-O notation.
+
+We can calculate time complexity in several ways
+    1.Linear Time Complexity O(n) --> run time depends on the value of n. If n doubles, so does the time complexity.
+    2.Quadratic Time Complexity O(n**k) 'k is any constant > 1' --> run time is directly proportional to the power of n "constant k".
+    3.Logarithmic Time Complexity O(log n)
+    4.Exponential Time Complexity n*log(n)

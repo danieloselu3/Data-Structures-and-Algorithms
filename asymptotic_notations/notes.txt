@@ -1,0 +1,6 @@
+Asymptotic notations is a way of representing time and space complexity of an algorithm.
+
+We have 3 Types of Asymptotic notations
+    1.Big Theta --> Represents the average time taken to execute an algorithm of any given kind.
+    2.Big Oh --> Represents the upper bound, or the worst case scenario that it takes to execute an algorithm.
+    3.Big Omega --> Represents the lower bound, or the best case scenario that it takes to execute an algorithm.

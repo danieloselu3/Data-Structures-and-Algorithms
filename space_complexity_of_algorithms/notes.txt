@@ -1,0 +1,14 @@
+Space complexity is the amount of space(including input values to the algoritm) used by the program to execute the algorithm.
+
+For any algorithm, memory may be used for the following;
+    1.Storing variables.
+    2.Program instructions.
+    3.Execution.
+
+Auxiliary space is the space used up during execution.
+ i.e Space complexity = Auxiliary space + Input Space
+
+ During execution, Algorithms may use memory for three reasons;
+    1.Instruction space. --> memory used to save the compiled version of the instructions.
+    2.Environmental stack. --> Sometimes , an algorithm(function) may be called inside another algorithm(function).In such a situation, the current variables are pushed into the system stack temporarily as the await further instructions.
+    3.Data space. --> amount of space used by the variables and constants.
