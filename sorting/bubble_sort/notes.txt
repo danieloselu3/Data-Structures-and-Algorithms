@@ -1,0 +1,16 @@
+Bubble sort compares all the elements, one by one and sorts them based on their values.
+
+It is known as bubble sort because with every iteration, the highest element in the given array, bubbles up towards the last place , just like a water bubble rises up to the water surface.
+
+sorting takes place by stepping through all the elements one-by-one and comparing it with the adjacent element and swapping them if required.
+
+Implementing Bubble sort
+    1.Starting with the first element(index=0) compare the current element with the next element of the array.
+    2.If the current element is greater than the next element of the array, swap them.
+    3.If the current element is less than the next element, move to the next element.Repeat from step 1.
+
+Complexity analysis of bubble sort.
+  Time Complexity of bubble sort is O(n**2)
+  Space complexity of bubble sort is O(1) because only a single additional space is required(for holding the temporary variable).
+  The main advantage of bubble sort is the simplicity of the algorithm.
+  
